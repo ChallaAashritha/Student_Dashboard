@@ -1,0 +1,3 @@
+Model,Best Params,CV R2,Test MSE,Test RMSE,Test MAE,Test R2
+RandomForestRegressor,"{'regressor__max_depth': 10, 'regressor__min_samples_split': 10, 'regressor__n_estimators': 50}",0.9018742311035608,0.7890329658933241,0.8882752759664788,0.6828602849500329,0.9024826604711154
+RandomForestClassifier,"{'classifier__max_depth': 10, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 200}",0.9560091883007583,0.9047619047619048,0.9464285714285714,0.9464285714285714,0.9464285714285714,0.9649234693877551
